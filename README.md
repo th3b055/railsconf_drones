@@ -1,4 +1,4 @@
-# RailsConf Drone Presentation
+# RailsConf Drone Presentation: For Thursday
 
 ### Make Your Own Moves!
 In the `copter.js` file, you can see the `groove` function we created yesterday. Before our meeting on Thursday, we'd like for you to create your own move that we'll incorporate into our choreography.
