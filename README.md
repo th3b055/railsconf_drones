@@ -27,15 +27,15 @@ function twirly_twist(){
 
 Look back at the library to see the different moves the drones can do. [Here's the library](https://github.com/felixge/node-ar-drone).
 
-### Hints About Moves
+### Hints
 + A move with 'theta' will move in relationship to the drone's front and back sides.
 + A move with 'phi' will move in relationship to the drone's left and right sides.
 + A move with 'yaw' with move about the imaginary vertical axis through the center of the drone.
 + __DON'T USE__: `yawShake` and `vzDance`. They're boring.
 + [Check the docs](https://github.com/felixge/node-ar-drone) for other moves you can use.
 
-__Awesome Moves__:
-  + `yawDance`, `phiDance`, `thetaDance`
-  + `phiThetaMixed` (dips left, right, front, then back)
-  + `doublePhiThetaMixed` (this one needs at least 4 seconds to go through one cycle)
-  + __All__ the flips!
+### Awesome Moves
++ `yawDance`, `phiDance`, `thetaDance`
++ `phiThetaMixed` (dips left, right, front, then back)
++ `doublePhiThetaMixed` (this one needs at least 4 seconds to go through one cycle)
++ + __All__ the flips!
