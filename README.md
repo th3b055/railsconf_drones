@@ -3,7 +3,9 @@
 ### Make Your Own Moves!
 In the `copter.js` file, you can see the `groove` function we created yesterday. Before our meeting on Thursday, we'd like for you to create your own move that we'll incorporate into our choreography.
 
-A file has been created with each of your names. In your file, __please create a sequence__ that contains a series of moves for the drone. Here's Steph's sequence: 
+### Instructions
+1. You all should have been added as collaborators on this repository. Please __clone the repository__ (you don't have to fork it) on your computer.
+2. A file has been created with each of your names. In your file, please __create a sequence__ that contains a series of moves for the drone. Here's Steph's sequence: 
 
 ```javascript
 function twirly_twist(){
@@ -19,6 +21,8 @@ function twirly_twist(){
 }
 	
 ```
+3. __Add, commit, and push the repository__ up to GitHub with the changes you made to your file.
+
 ### Please Read the Documentation
 
 Look back at the library to see the different moves the drones can do. [Here's the library](https://github.com/felixge/node-ar-drone).
